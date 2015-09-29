@@ -78,68 +78,26 @@
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Mac\Xamarin.Mac.CSharp.targets" />
   <ItemGroup>
-    <BundleResource Include="Resources\San Francisco\SanFranciscoDisplay-Black.otf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </BundleResource>
-    <BundleResource Include="Resources\San Francisco\SanFranciscoDisplay-Bold.otf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </BundleResource>
-    <BundleResource Include="Resources\San Francisco\SanFranciscoDisplay-Heavy.otf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </BundleResource>
-    <BundleResource Include="Resources\San Francisco\SanFranciscoDisplay-Light.otf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </BundleResource>
-    <BundleResource Include="Resources\San Francisco\SanFranciscoDisplay-Medium.otf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </BundleResource>
-    <BundleResource Include="Resources\San Francisco\SanFranciscoDisplay-Regular.otf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </BundleResource>
-    <BundleResource Include="Resources\San Francisco\SanFranciscoDisplay-Semibold.otf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </BundleResource>
-    <BundleResource Include="Resources\San Francisco\SanFranciscoDisplay-Thin.otf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </BundleResource>
-    <BundleResource Include="Resources\San Francisco\SanFranciscoDisplay-Ultralight.otf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </BundleResource>
-    <BundleResource Include="Resources\San Francisco\SanFranciscoText-Bold.otf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </BundleResource>
-    <BundleResource Include="Resources\San Francisco\SanFranciscoText-BoldItalic.otf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </BundleResource>
-    <BundleResource Include="Resources\San Francisco\SanFranciscoText-Heavy.otf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </BundleResource>
-    <BundleResource Include="Resources\San Francisco\SanFranciscoText-HeavyItalic.otf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </BundleResource>
-    <BundleResource Include="Resources\San Francisco\SanFranciscoText-Light.otf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </BundleResource>
-    <BundleResource Include="Resources\San Francisco\SanFranciscoText-LightItalic.otf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </BundleResource>
-    <BundleResource Include="Resources\San Francisco\SanFranciscoText-Medium.otf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </BundleResource>
-    <BundleResource Include="Resources\San Francisco\SanFranciscoText-MediumItalic.otf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </BundleResource>
-    <BundleResource Include="Resources\San Francisco\SanFranciscoText-Regular.otf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </BundleResource>
-    <BundleResource Include="Resources\San Francisco\SanFranciscoText-RegularItalic.otf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </BundleResource>
-    <BundleResource Include="Resources\San Francisco\SanFranciscoText-Semibold.otf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </BundleResource>
-    <BundleResource Include="Resources\San Francisco\SanFranciscoText-SemiboldItalic.otf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </BundleResource>
+    <BundleResource Include="Resources\San Francisco\SanFranciscoDisplay-Black.otf" />
+    <BundleResource Include="Resources\San Francisco\SanFranciscoDisplay-Bold.otf" />
+    <BundleResource Include="Resources\San Francisco\SanFranciscoDisplay-Heavy.otf" />
+    <BundleResource Include="Resources\San Francisco\SanFranciscoDisplay-Light.otf" />
+    <BundleResource Include="Resources\San Francisco\SanFranciscoDisplay-Medium.otf" />
+    <BundleResource Include="Resources\San Francisco\SanFranciscoDisplay-Regular.otf" />
+    <BundleResource Include="Resources\San Francisco\SanFranciscoDisplay-Semibold.otf" />
+    <BundleResource Include="Resources\San Francisco\SanFranciscoDisplay-Thin.otf" />
+    <BundleResource Include="Resources\San Francisco\SanFranciscoDisplay-Ultralight.otf" />
+    <BundleResource Include="Resources\San Francisco\SanFranciscoText-Bold.otf" />
+    <BundleResource Include="Resources\San Francisco\SanFranciscoText-BoldItalic.otf" />
+    <BundleResource Include="Resources\San Francisco\SanFranciscoText-Heavy.otf" />
+    <BundleResource Include="Resources\San Francisco\SanFranciscoText-HeavyItalic.otf" />
+    <BundleResource Include="Resources\San Francisco\SanFranciscoText-Light.otf" />
+    <BundleResource Include="Resources\San Francisco\SanFranciscoText-LightItalic.otf" />
+    <BundleResource Include="Resources\San Francisco\SanFranciscoText-Medium.otf" />
+    <BundleResource Include="Resources\San Francisco\SanFranciscoText-MediumItalic.otf" />
+    <BundleResource Include="Resources\San Francisco\SanFranciscoText-Regular.otf" />
+    <BundleResource Include="Resources\San Francisco\SanFranciscoText-RegularItalic.otf" />
+    <BundleResource Include="Resources\San Francisco\SanFranciscoText-Semibold.otf" />
+    <BundleResource Include="Resources\San Francisco\SanFranciscoText-SemiboldItalic.otf" />
   </ItemGroup>
 </Project>
