@@ -23,7 +23,6 @@ namespace MyFont
 		public override void AwakeFromNib ()
 		{
 			base.AwakeFromNib ();
-			lblWelcome.Font = NSFont.FromFontName ("SanFranciscoText-BoldItalic",12.0f);
 		}
 
 		public new MainWindow Window {
